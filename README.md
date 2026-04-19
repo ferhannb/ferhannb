@@ -19,7 +19,7 @@
 
 ## Profile
 
-I work on autonomous marine systems with a background in shipbuilding, ocean engineering, and mechatronics. My research and engineering focus on unmanned surface vehicles, control systems, path planning, Hardware-in-the-Loop environments, and real-time simulation.
+I work on autonomous marine systems with a background in shipbuilding, ocean engineering, and mechatronics. My research and engineering focus on unmanned surface vehicles, control systems, path planning, system identification, Hardware-in-the-Loop environments, and real-time simulation.
 
 I am currently a **Research Fellow at the University of Genoa**, developing simulation and control algorithms for collaborative maneuvering of marine vehicles.
 
@@ -28,6 +28,7 @@ I am currently a **Research Fellow at the University of Genoa**, developing simu
 - Dynamic path planning and obstacle avoidance for USVs
 - Path following and trajectory tracking control
 - Model predictive control for autonomous marine vehicles
+- System identification for marine platforms
 - Hardware-in-the-Loop system development
 - Sensor integration with IMU, GPS, LiDAR, and AIS
 - System identification and dynamic modeling of marine platforms
@@ -63,9 +64,9 @@ I am currently a **Research Fellow at the University of Genoa**, developing simu
 
 | Degree | Institution | Period | Details |
 |---|---|---:|---|
-| MSc, Mechatronics Engineering | Istanbul Technical University | 2020 - 2023 | GPA: 3.25 / 4.0 |
+| MSc, Mechatronics Engineering | Istanbul Technical University | 2020 - 2023 | Thesis-based graduate study |
 | MSc, System Dynamics and Control | Istanbul Technical University | 2019 - 2020 | Left program |
-| BSc, Shipbuilding and Ocean Engineering | Istanbul Technical University | 2013 - 2018 | GPA: 3.0 / 4.0 |
+| BSc, Shipbuilding and Ocean Engineering | Istanbul Technical University | 2013 - 2018 | Undergraduate degree |
 
 **Thesis**  
 Dynamic Model-Based Path Planning Optimization and Control for USV in Inland Waterway
@@ -101,7 +102,6 @@ Dynamic Model-Based Path Planning Optimization and Control for USV in Inland Wat
 ## Contact
 
 - Email: `ferhanbuyukcolak@gmail.com`
-- Phone: `+39 351 419 1432`
 - Location: `Genoa, Italy`
 
 If you are working on autonomous marine systems, control algorithms, simulation environments, or USV research, I am open to research and engineering collaborations.
