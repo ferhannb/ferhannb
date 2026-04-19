@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ferhan | About Me</title>
+    <meta
+      name="description"
+      content="Ferhan's personal page presenting his story, focus areas, and selected work."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Manrope:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="noise" aria-hidden="true"></div>
+    <div class="page-shell">
+      <header class="topbar">
+        <a class="brand" href="#hero">
+          <span class="brand-mark"></span>
+          <span id="brand-name">Ferhan</span>
+        </a>
+        <nav class="topnav">
+          <a href="#story">Story</a>
+          <a href="#focus">Focus</a>
+          <a href="#builds">Highlights</a>
+          <a href="#contact">Contact</a>
+        </nav>
+      </header>
+
+      <main>
+        <section class="hero panel" id="hero">
+          <div class="hero-copy">
+            <p class="eyebrow" id="hero-label">Digital builder</p>
+            <h1>
+              Hi, I'm <span id="hero-name">Ferhan</span>.
+              <span class="accent" id="hero-tagline">I turn ideas into experiences.</span>
+            </h1>
+            <p class="lede" id="hero-summary">
+              I bring together web, design, and storytelling in one place.
+            </p>
+            <div class="cta-row">
+              <a class="button primary" id="primary-link" href="#contact">Get in touch</a>
+              <a class="button ghost" id="secondary-link" href="#builds">See what I do</a>
+            </div>
+          </div>
+
+          <aside class="hero-card">
+            <div class="card-kicker">Quick Intro</div>
+            <div class="live-pill">
+              <span class="dot"></span>
+              <span id="availability">Su an yeni projelere acigim</span>
+            </div>
+            <ul class="fact-list" id="quick-facts"></ul>
+          </aside>
+        </section>
+
+        <section class="story-grid panel" id="story">
+          <div class="section-heading">
+            <p class="eyebrow">Short and clear</p>
+            <h2>How do I describe myself?</h2>
+          </div>
+          <div class="story-cards" id="story-cards"></div>
+        </section>
+
+        <section class="focus panel" id="focus">
+          <div class="section-heading">
+            <p class="eyebrow">How I work</p>
+            <h2>Where I put my energy</h2>
+          </div>
+          <div class="focus-layout">
+            <div class="focus-copy">
+              <p id="focus-text">
+                A strong product experience is not just code; it comes from clarity, speed, simplicity,
+                and feeling working together.
+              </p>
+              <div class="chip-wrap" id="focus-chips"></div>
+            </div>
+            <div class="timeline" id="timeline"></div>
+          </div>
+        </section>
+
+        <section class="builds panel" id="builds">
+          <div class="section-heading">
+            <p class="eyebrow">Selected sections</p>
+            <h2>What I want you to know about me</h2>
+          </div>
+          <div class="build-grid" id="project-grid"></div>
+        </section>
+
+        <section class="quote-band panel">
+          <p id="signature-quote">
+            "To me, good work is something that looks sharp and stays with people."
+          </p>
+        </section>
+
+        <section class="contact panel" id="contact">
+          <div class="section-heading">
+            <p class="eyebrow">Contact</p>
+            <h2>Let's build something.</h2>
+          </div>
+          <div class="contact-layout">
+            <p id="contact-text">
+              If you have an idea, we can shape it into something simple, effective, and genuinely useful.
+            </p>
+            <div class="contact-links" id="contact-links"></div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
