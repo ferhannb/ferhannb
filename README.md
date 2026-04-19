@@ -1,54 +1,101 @@
-# About Me
+<h1 align="center">Ferhan Buyukcolak</h1>
+<p align="center">
+  Autonomous Systems Design Engineer • Research Fellow • USV Control and Simulation
+</p>
 
-A personal one-page site prepared to run on GitHub Pages.
+<p align="center">
+  <a href="mailto:ferhanbuyukcolak@gmail.com">Email</a> •
+  <a href="https://github.com/ferhannb">GitHub</a> •
+  <a href="https://maps.google.com/?q=Genoa,Italy">Genoa, Italy</a>
+</p>
 
-## Files
+## About Me
 
-- `index.html`: Page structure
-- `styles.css`: Visual design and responsive layout
-- `script.js`: Content data and dynamic section rendering
+I am an Autonomous Systems Design Engineer with a background in shipbuilding, ocean engineering, and mechatronics engineering. My work focuses on autonomous marine systems, especially unmanned surface vehicles, with experience spanning dynamic path planning, path following control, Hardware-in-the-Loop systems, system identification, and real-time simulation.
 
-## Quick customization
+I am currently a Research Fellow at the University of Genoa, where I work on simulation and control algorithms for collaborative maneuvering of marine vehicles.
 
-You can change all text and links from the `profile` object inside `script.js`.
+## What I Work On
 
-Update these fields first:
+- Dynamic path planning and obstacle avoidance for USVs
+- Path following and trajectory tracking control
+- Model predictive control for autonomous marine vehicles
+- Hardware-in-the-Loop environments
+- Sensor integration including IMU, GPS, LiDAR, and AIS
+- Dynamic modeling and system identification of marine platforms
 
-- `name`
-- `roleLabel`
-- `tagline`
-- `summary`
-- `quickFacts`
-- `story`
-- `timeline`
-- `projects`
-- `contactLinks`
+## Experience
 
-Fields like `hello@example.com` and `@username` are placeholders and should be replaced with your own details.
+### University of Genoa
+**Research Fellow**  
+**November 2024 - Present**
 
-## Run locally
+- Developing simulation and control algorithms for collaborative maneuvering of marine vehicles
 
-Because the project is static, you can open it directly in a browser:
+### ASELSAN
+**Senior Autonomous and Unmanned Systems Design Engineer**  
+**September 2023 - October 2024**
 
-```bash
-xdg-open index.html
-```
+- Developed a Hardware-in-the-Loop system
+- Worked on phase-mode architecture and autopilot design for a kamikaze USV
+- Contributed to path planning algorithm development
 
-Or start a simple local server:
+### TUBITAK BILGEM
+**Robotics Engineer**  
+**February 2020 - September 2023**
 
-```bash
-python3 -m http.server 8000
-```
+- Built a 3 DOF system model of a catamaran-type USV using system identification
+- Designed controllers for USV navigation
+- Developed trajectory tracking using model predictive control
+- Installed and integrated IMU, GPS, LiDAR, AIS, and related sensors on autonomous boat systems
+- Modeled the podded propeller thruster system for the TCG Anadolu LHD vessel mathematical maneuver model project
 
-Then open `http://localhost:8000`.
+## Projects
 
-## GitHub Pages
+### ITU Autonomous Sailing Team
+**2019 - 2023**
 
-This repo can be published from the `main` branch. In GitHub settings:
+- Supported the team for the RobotX autonomous boat competition in Sydney in 2022
+- Designed and implemented localization and trajectory tracking architecture for the RobotX USV
+- Contributed to the controller design that received the **Best Controller Design** award at RobotX Sydney 2022
 
-1. `Settings`
-2. `Pages`
-3. `Deploy from a branch`
-4. `main` ve `/ (root)`
+### Academic Research Projects
 
-After that, the site will be published.
+- Developed and implemented an onboard data gathering system for navigational data collection on ships
+
+## Education
+
+### Istanbul Technical University
+**MSc, Mechatronics Engineering**  
+**2020 - 2023**  
+GPA: **3.25 / 4.0**
+
+- Thesis: **Dynamic Model-Based Path Planning Optimization and Control for USV in Inland Waterway**
+
+### Istanbul Technical University
+**MSc, System Dynamics and Control**  
+**2019 - 2020**  
+Left program
+
+### Istanbul Technical University
+**BSc, Shipbuilding and Ocean Engineering**  
+**2013 - 2018**  
+GPA: **3.0 / 4.0**
+
+- Graduate Project: **Design of unmanned surface vehicle simulation environment**
+
+## Tools and Skills
+
+- **Programming:** Python, C++, Matlab, Simulink, ROS, ROS2
+- **Domain Knowledge:** USV, path planning, path following, collision avoidance, model-based control, control system design, COLREG, CANbus
+- **Licenses:** Yacht Driving, Open Water Diver
+
+## Current Focus
+
+I am interested in autonomous marine systems, model-based control, cooperative maneuvering, and practical deployment of robust autonomy algorithms in real-world environments.
+
+## Contact
+
+- Email: `ferhanbuyukcolak@gmail.com`
+- Phone: `+39 351 419 1432`
+- Location: `Genoa, Italy`
