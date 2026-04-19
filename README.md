@@ -13,9 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ferhannb&style=flat-square&color=0f766e" alt="Profile views" />
-</p>
 
 ## Profile
 
