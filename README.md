@@ -5,8 +5,8 @@
   <a href="mailto:ferhanbuyukcolak@gmail.com">
     <img src="https://img.shields.io/badge/Email-ferhanbuyukcolak%40gmail.com-1f2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/ferhannb">
-    <img src="https://img.shields.io/badge/GitHub-ferhannb-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/buyukcolakfe/">
+    <img src="https://img.shields.io/badge/LinkedIn-buyukcolakfe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://maps.google.com/?q=Genoa,Italy">
     <img src="https://img.shields.io/badge/Location-Genoa%2C%20Italy-0f766e?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
