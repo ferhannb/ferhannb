@@ -68,10 +68,7 @@ I am currently a Research Fellow at the University of Genoa, where I work on sim
 ### Istanbul Technical University
 **MSc, Mechatronics Engineering**  
 **2020 - 2023**  
-GPA: **3.25 / 4.0**
-
 - Thesis: **Dynamic Model-Based Path Planning Optimization and Control for USV in Inland Waterway**
-
 ### Istanbul Technical University
 **MSc, System Dynamics and Control**  
 **2019 - 2020**  
@@ -80,8 +77,6 @@ Left program
 ### Istanbul Technical University
 **BSc, Shipbuilding and Ocean Engineering**  
 **2013 - 2018**  
-GPA: **3.0 / 4.0**
-
 - Graduate Project: **Design of unmanned surface vehicle simulation environment**
 
 ## Tools and Skills
