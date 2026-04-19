@@ -44,15 +44,15 @@ I am currently a **Research Fellow at the University of Genoa**, developing simu
 ## Selected Work
 
 ### Marine autonomy and control
-- Built a **3 DOF system model** of a catamaran-type USV using system identification
+- System identificaiton of a catamaran-type USV
 - Designed controllers for **USV navigation**
 - Developed **trajectory tracking with model predictive control**
-- Worked on **phase-mode architecture** and **autopilot design** for a kamikaze USV
+- Worked on **phase-mode architecture** and **autopilot design** for a USV
 
 ### Simulation and integration
 - Developed a **Hardware-in-the-Loop system**
 - Integrated **IMU, GPS, LiDAR, AIS**, and related sensors on autonomous marine platforms
-- Modeled the **podded propeller thruster system** for the TCG Anadolu LHD maneuver model project
+- Modeled the **podded propeller thruster system** for the LHD type ship maneuver model project
 
 ### Competition and academic projects
 - Supported the **ITU Autonomous Sailing Team** for RobotX Sydney 2022
