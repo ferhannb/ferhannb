@@ -97,5 +97,4 @@ I am interested in autonomous marine systems, model-based control, cooperative m
 ## Contact
 
 - Email: `ferhanbuyukcolak@gmail.com`
-- Phone: `+39 351 419 1432`
 - Location: `Genoa, Italy`
