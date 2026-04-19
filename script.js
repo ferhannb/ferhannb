@@ -7,7 +7,7 @@ const profile = {
   availability: "Currently based in Genoa and active in autonomous marine systems research",
   quickFacts: [
     { label: "Location", value: "Genoa, Italy" },
-    { label: "Focus", value: "USV autonomy, control systems, simulation" },
+    { label: "Focus", value: "USV autonomy, control systems, System Identification, simulation" },
     { label: "Tools", value: "Python, C++, Matlab, Simulink, ROS/ROS2" },
   ],
   story: [
@@ -63,14 +63,14 @@ const profile = {
       type: "ASELSAN",
       title: "Senior Autonomous and Unmanned Systems Design Engineer",
       description:
-        "Developed a Hardware-in-the-Loop system, worked on phase-mode architecture and autopilot design for a kamikaze USV, and contributed to path planning algorithms.",
+        "Developed a Hardware-in-the-Loop system, worked on phase-mode architecture and autopilot design for a   USV, and contributed to path planning algorithms.",
       links: [{ label: "Experience", href: "#story" }],
     },
     {
       type: "TUBITAK BILGEM / ITU",
       title: "Robotics, modeling, and competition work",
       description:
-        "Worked on USV navigation controllers, trajectory tracking with MPC, 3 DOF catamaran modeling, sensor integration, and supported the ITU Autonomous Sailing Team in RobotX Sydney 2022.",
+        "Worked on USV navigation controllers, trajectory tracking with MPC, catamaran modeling, sensor integration, and supported the ITU Autonomous Sailing Team in RobotX Sydney 2022.",
       links: [{ label: "Get in touch", href: "#contact" }],
     },
   ],
@@ -79,7 +79,7 @@ const profile = {
     "If you are working on autonomous marine systems, control algorithms, simulation environments, or USV research, I am open to discussing research and engineering collaborations.",
   contactLinks: [
     { label: "Email", value: "ferhanbuyukcolak@gmail.com", href: "mailto:ferhanbuyukcolak@gmail.com" },
-    { label: "Phone", value: "+39 351 419 1432", href: "tel:+393514191432" },
+    { label: "Phone", value: "+39 351 419 1432"},
     { label: "Location", value: "Genoa, Italy", href: "https://maps.google.com/?q=Genoa,Italy" },
   ],
 };
