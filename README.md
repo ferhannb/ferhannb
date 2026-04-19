@@ -1,4 +1,4 @@
-<h1 align="center">Ferhan Buyukcolak</h1>
+<h1 align="center">Ferhan Büyükçolak</h1>
 <p align="center">Autonomous Systems Design Engineer • Research Fellow • USV Control and Simulation</p>
 
 <p align="center">
