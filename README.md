@@ -16,9 +16,8 @@
 
 ## Profile
 
-I work on autonomous marine systems with a background in shipbuilding, ocean engineering, and mechatronics. My research and engineering focus on unmanned surface vehicles, control systems, path planning, system identification, Hardware-in-the-Loop environments, and real-time simulation.
+I work on autonomous marine systems with a background in shipbuilding, ocean engineering, and mechatronics. My research and engineering focus on unmanned surface vehicles, control systems, path planning, system identification, Hardware-in-the-Loop environments, and real-time control.
 
-I am currently a **Research Fellow at the University of Genoa**, developing simulation and control algorithms for collaborative maneuvering of marine vehicles.
 
 ## Current Focus
 
