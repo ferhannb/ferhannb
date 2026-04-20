@@ -58,16 +58,20 @@ I am currently a **Research Fellow at the University of Genoa**, developing simu
 - Contributed to the controller design awarded **Best Controller Design** at RobotX Sydney 2022
 - Developed an onboard data gathering system for navigational ship data
 
-## Education
+## Repository Guide
 
-| Degree | Institution | Period | Details |
-|---|---|---:|---|
-| MSc, Mechatronics Engineering | Istanbul Technical University | 2020 - 2023 | Thesis-based graduate study |
-| MSc, System Dynamics and Control | Istanbul Technical University | 2019 - 2020 | Left program |
-| BSc, Shipbuilding and Ocean Engineering | Istanbul Technical University | 2013 - 2018 | Undergraduate degree |
+This profile includes research and engineering repositories centered on autonomous marine systems, especially path planning, guidance, trajectory generation, and simulation for unmanned surface vehicles.
 
-**Thesis**  
-Dynamic Model-Based Path Planning Optimization and Control for USV in Inland Waterway
+| Repository | Purpose | What it contains |
+|---|---|---|
+| `marine-route-planning` | Long-range route planning for autonomous surface vessels | C++ route planning workflows, supporting UI components, and software structure for marine mission-level planning |
+| `Curvelinear-path-planning-for-usv` | Curvature-aware path generation for USVs | Path generation experiments, curvilinear planning logic, and trajectory construction focused on feasible marine motion |
+| `Visibility-Graph-Path-Planinng-with-MPC-for-USV` | Combine global path planning with control-oriented tracking | Visibility-graph-based planning studies, MPC-oriented trajectory handling, and simulation code for obstacle-aware navigation |
+| `Curvelinear-trajectory-forecast` | Forecast vessel motion along curved paths | Python-based simulation environment for dynamic and curvature-based trajectory prediction |
+| `RotaOptimaldsCpp` | Receding-horizon route optimization and avoidance | CasADi/C++ optimization setup for waypoint tracking, obstacle avoidance, and online route refinement |
+| `usv_LOS_path_tracking` | LOS guidance and path tracking for a USV platform | Line-of-sight tracking implementation, cubic path generation utilities, and supporting guidance/controller scripts |
+
+These repositories reflect a common workflow: generate a feasible route, shape it into a trackable trajectory, evaluate it in simulation, and close the loop with guidance and control algorithms.
 
 ## Toolbox
 
