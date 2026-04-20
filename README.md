@@ -30,14 +30,6 @@ I am currently a **Research Fellow at the University of Genoa**, developing simu
 - Sensor integration with IMU, GPS, LiDAR, and AIS
 - System identification and dynamic modeling of marine platforms
 
-## Experience Snapshot
-
-| Organization | Role | Period | Focus |
-|---|---|---:|---|
-| University of Genoa | Research Fellow | 2024 - Present | Collaborative maneuvering, simulation, control algorithms |
-| ASELSAN | Senior Autonomous and Unmanned Systems Design Engineer | 2023 - 2024 | HIL systems, autopilot design, path planning |
-| TUBITAK BILGEM | Robotics Engineer | 2020 - 2023 | USV modeling, navigation control, MPC, sensor integration |
-
 ## Selected Work
 
 ### Marine autonomy and control
