@@ -13,9 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ferhannb&style=flat-square&color=0f766e" alt="Profile views" />
-</p>
 
 ## Profile
 
@@ -52,6 +49,22 @@ I am currently a **Research Fellow at the University of Genoa**, developing simu
 - Contributed to the controller design awarded **Best Controller Design** at RobotX Sydney 2022
 - Developed an onboard data gathering system for navigational ship data
 
+## Repository Guide
+
+This profile includes research and engineering repositories centered on autonomous marine systems, especially path planning, guidance, trajectory generation, and simulation for unmanned surface vehicles.
+
+| Repository | Purpose | What it contains |
+|---|---|---|
+| `marine-route-planning` | Long-range route planning for autonomous surface vessels | C++ route planning workflows, supporting UI components, and software structure for marine mission-level planning |
+| `Curvelinear-path-planning-for-usv` | Curvature-aware path generation for USVs | Path generation experiments, curvilinear planning logic, and trajectory construction focused on feasible marine motion |
+| `Visibility-Graph-Path-Planinng-with-MPC-for-USV` | Combine global path planning with control-oriented tracking | Visibility-graph-based planning studies, MPC-oriented trajectory handling, and simulation code for obstacle-aware navigation |
+| `Curvelinear-trajectory-forecast` | Forecast vessel motion along curved paths | Python-based simulation environment for dynamic and curvature-based trajectory prediction |
+| `RotaOptimaldsCpp` | Receding-horizon route optimization and avoidance | CasADi/C++ optimization setup for waypoint tracking, obstacle avoidance, and online route refinement; the Python branch also includes `acados`-based implementations |
+| `usv_LOS_path_tracking` | LOS guidance and path tracking for a USV platform | Line-of-sight tracking implementation, cubic path generation utilities, and supporting guidance/controller scripts |
+| `Maritime-Autonomous-Systems-Simulator` | Marine autonomy simulator framework | Simulation infrastructure for autonomous maritime systems, control experiments, and scenario-based development |
+
+These repositories reflect a common workflow: generate a feasible route, shape it into a trackable trajectory, evaluate it in simulation, and close the loop with guidance and control algorithms.
+
 ## Toolbox
 
 <p>
@@ -75,8 +88,6 @@ I am currently a **Research Fellow at the University of Genoa**, developing simu
 
 ## GitHub Overview
 
-- [Maritime-Autonomous-Systems-Simulator](https://github.com/ferhannb/Maritime-Autonomous-Systems-Simulator)
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ferhannb&show_icons=true&hide_border=true&title_color=111827&text_color=374151&icon_color=0f766e&bg_color=ffffff" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhannb&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff" alt="Top languages" />
@@ -85,6 +96,5 @@ I am currently a **Research Fellow at the University of Genoa**, developing simu
 ## Contact
 
 - Email: `ferhanbuyukcolak@gmail.com`
-- Location: `Genoa, Italy`
 
 If you are working on autonomous marine systems, control algorithms, simulation environments, or USV research, I am open to research and engineering collaborations.
