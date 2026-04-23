@@ -1,4 +1,4 @@
-<h1 align="center">Ferhan Büyükçolak</h1>
+<h1 align="center">Ferhan Buyukcolak</h1>
 <p align="center">Autonomous Systems Design Engineer • Research Fellow • USV Control and Simulation</p>
 
 <p align="center">
@@ -13,11 +13,15 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ferhannb&style=flat-square&color=0f766e" alt="Profile views" />
+</p>
 
 ## Profile
 
-I work on autonomous marine systems with a background in shipbuilding, ocean engineering, and mechatronics. My research and engineering focus on unmanned surface vehicles, control systems, path planning, system identification, Hardware-in-the-Loop environments, and real-time control.
+I work on autonomous marine systems with a background in shipbuilding, ocean engineering, and mechatronics. My research and engineering focus on unmanned surface vehicles, control systems, path planning, system identification, Hardware-in-the-Loop environments, and real-time simulation.
 
+I am currently a **Research Fellow at the University of Genoa**, developing simulation and control algorithms for collaborative maneuvering of marine vehicles.
 
 ## Current Focus
 
@@ -32,14 +36,13 @@ I work on autonomous marine systems with a background in shipbuilding, ocean eng
 ## Selected Work
 
 ### Marine autonomy and control
-- System identification of a catamaran-type USV
+- System identificaiton of a catamaran-type USV
 - Designed controllers for **USV navigation**
-- Developed **trajectory tracking with model predictive control**
+- Developed **path genereation and following with model predictive control algorithm**
 - Worked on **phase-mode architecture** and **autopilot design** for a USV
 
 ### Simulation and integration
-- Developed a **Hardware-in-the-Loop system**
-- Designed marine engine simulators/emulators and GPS/IMU sensor emulators for testing, integration, and validation of autonomous marine systems
+- Sensor emulator  a **Hardware-in-the-Loop system**
 - Integrated **IMU, GPS, LiDAR, AIS**, and related sensors on autonomous marine platforms
 - Modeled the **podded propeller thruster system** for the LHD type ship maneuver model project
 
@@ -48,21 +51,6 @@ I work on autonomous marine systems with a background in shipbuilding, ocean eng
 - Designed localization and trajectory tracking architecture for the **RobotX USV**
 - Contributed to the controller design awarded **Best Controller Design** at RobotX Sydney 2022
 - Developed an onboard data gathering system for navigational ship data
-
-## Repository Guide
-
-This profile includes research and engineering repositories centered on autonomous marine systems, especially path planning, guidance, trajectory generation, and simulation for unmanned surface vehicles.
-
-| Repository | Purpose | What it contains |
-|---|---|---|
-| `marine-route-planning` | Long-range route planning for autonomous surface vessels | C++ route planning workflows, supporting UI components, and software structure for marine mission-level planning |
-| `Curvelinear-path-planning-for-usv` | Curvature-aware path generation for USVs | Path generation experiments, curvilinear planning logic, and trajectory construction focused on feasible marine motion |
-| `Visibility-Graph-Path-Planinng-with-MPC-for-USV` | Combine global path planning with control-oriented tracking | Visibility-graph-based planning studies, MPC-oriented trajectory handling, and simulation code for obstacle-aware navigation |
-| `Curvelinear-trajectory-forecast` | Forecast vessel motion along curved paths | Python-based simulation environment for dynamic and curvature-based trajectory prediction |
-| `RotaOptimaldsCpp` | Receding-horizon route optimization and avoidance | CasADi/C++ optimization setup for waypoint tracking, obstacle avoidance, and online route refinement; the Python branch also includes `acados`-based implementations |
-| `usv_LOS_path_tracking` | LOS guidance and path tracking for a USV platform | Line-of-sight tracking implementation, cubic path generation utilities, and supporting guidance/controller scripts |
-
-These repositories reflect a common workflow: generate a feasible route, shape it into a trackable trajectory, evaluate it in simulation, and close the loop with guidance and control algorithms.
 
 ## Toolbox
 
@@ -86,6 +74,8 @@ These repositories reflect a common workflow: generate a feasible route, shape i
 </p>
 
 ## GitHub Overview
+
+- [Maritime-Autonomous-Systems-Simulator](https://github.com/ferhannb/Maritime-Autonomous-Systems-Simulator)
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ferhannb&show_icons=true&hide_border=true&title_color=111827&text_color=374151&icon_color=0f766e&bg_color=ffffff" alt="GitHub stats" />
