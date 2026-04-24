@@ -46,7 +46,7 @@ I am currently a **Research Fellow at the University of Genoa**, developing simu
 ### Competition and academic projects
 - Supported the **ITU Autonomous Sailing Team** for RobotX Sydney 2022
 - Designed localization and trajectory tracking architecture for the **RobotX USV**
-- Contributed to the controller design awarded **Best Controller Design** at RobotX Sydney 2022
+- Contributed to the controller design at RobotX Sydney 2022
 - Developed an onboard data gathering system for navigational ship data
 
 ## Repository Guide
