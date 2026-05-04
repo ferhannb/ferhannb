@@ -40,7 +40,7 @@ I am currently a **Research Fellow at the University of Genoa**, developing simu
 
 ### Simulation and integration
 - Sensor emulator  a **Hardware-in-the-Loop system**
-- Integrated **IMU, GPS, LiDAR, AIS**, and related sensors on autonomous marine platforms
+- Integrated **IMU, GNSS, LiDAR, AIS**, and related sensors on autonomous marine platforms
 - Modeled the **podded propeller thruster system** for the LHD type ship maneuver model project
 
 ### Competition and academic projects
